@@ -22,6 +22,7 @@ In another terminal run:
 ```
 telnet localhost 4444
 nrf5 mass_erase
-flash write_image <full_path_to_hex_file>
-verify_image <full_path_to_hex_file>
+flash write_image /home/tk/bootloader_keyboard_mcu/tk_kb_18010_bootloader-0.9.2_nosd.hex
+verify_image /home/tk/bootloader_keyboard_mcu/tk_kb_18010_bootloader-0.9.2_nosd.hex
+reset run
 ```
