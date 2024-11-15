@@ -1,5 +1,5 @@
 # bootloader_keyboard_mcu
-Bootloader build with https://github.com/adafruit/Adafruit_nRF52_Bootloader/ with minor modifications (see booloader.h).
+Bootloader build with https://github.com/adafruit/Adafruit_nRF52_Bootloader/ with minor modifications (see board.h).
 
 ### Flash instructions
 Build openocd from source with:
